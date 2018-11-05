@@ -18,7 +18,7 @@ You might also try these open source projects that are affiliated with ITP in so
 
 - [The Processing Foundation](https://github.com/processing/)
 - [ml5.js](https://github.com/ml5js)
-- [Knitting Machine](https://github.com/knittingmachine/)
+- [Magic Tracks](https://github.com/magictracks/)
 - [Open Source Studio](https://github.com/Open-Source-Studio-at-ITP) - the class itself is an open source project?
 
 Also, the projects from the "case studies" or guest speakers are possibilities.
